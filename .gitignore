@@ -1,0 +1,16 @@
+__py# Ignore compiled Python files
+*.pyc
+
+# Ignore Python cache directories
+__pycache__/
+
+# Ignore environment-specific files
+.env
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore project-specific files
+*.log
+db.sqlite3

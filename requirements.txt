@@ -1,0 +1,6 @@
+transformers==4.31.0
+torch
+fastapi
+uvicorn
+scipy
+optimum
