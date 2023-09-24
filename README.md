@@ -110,7 +110,7 @@ The suno bark model will begin downloading from [Huggingface](https://huggingfac
 
 Once downloaded they will load into GPU memory. The `suno/bark` model uses ~5.5gb of VRAM while the `suno/bark-small` uses ~2.25gb. 
 
-We recommend the standard model for best quality
+We recommend the standard model for best quality, but if you'd like to try the small model then you can adjust the model name in `main.py` and restart the server
 
 ## Calling the API
 
